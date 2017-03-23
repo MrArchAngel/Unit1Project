@@ -1,7 +1,7 @@
 ﻿body {
   background-image: url("https://s-media-cache-ak0.pinimg.com/736x/d7/02/4f/d7024ffc0bfd1e50e2a7746a159e354d.jpg");
   background-size:cover;
-  font-size:150%;
+  font-size:200%;
 }
 
 #p1 {
@@ -18,4 +18,8 @@
 
 #p4 {
   color: red;
+}
+
+#p5 {
+    color: darkblue;
 }
