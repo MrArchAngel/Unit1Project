@@ -4,22 +4,48 @@
   font-size:200%;
 }
 
-#p1 {
+.cb:checked + .label
+{
+    text-decoration:line-through;
+}
+
+.p1 {
   font-weight: bold;
 }
 
-#p2 {
+.p1a {
+    font-weight: bold;
+    text-decoration: line-through;
+}
+
+.p2 {
   color: orange;
 }
 
-#p3 {
-  color: green;
+.p3 {
+  color: whitesmoke;
 }
 
-#p4 {
-  color: red;
+.p4 {
+  color: forestgreen;
 }
 
-#p5 {
-    color: darkblue;
+.p5 {
+    color: red;
+}
+
+.p6 {
+    color: green;
+}
+
+.p7 {
+    color: whitesmoke;
+}
+
+.p8 {
+    color: whitesmoke;
+}
+
+.p9 {
+    color: whitesmoke;
 }
