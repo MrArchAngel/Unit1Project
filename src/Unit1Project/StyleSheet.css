@@ -4,48 +4,83 @@
   font-size:200%;
 }
 
-.cb:checked + .label
-{
-    text-decoration:line-through;
-}
-
-.p1 {
+.l1 {
   font-weight: bold;
 }
 
-.p1a {
+.alt1 {
     font-weight: bold;
     text-decoration: line-through;
 }
 
-.p2 {
+.l2 {
   color: orange;
 }
 
-.p3 {
+.alt2{
+    color: orange;
+    text-decoration: line-through;
+}
+
+.l3 {
   color: whitesmoke;
 }
 
-.p4 {
+.alt3 {
+    color: whitesmoke;
+    text-decoration: line-through;
+}
+
+.l4 {
   color: forestgreen;
 }
 
-.p5 {
+.alt4 {
+    color: forestgreen;
+    text-decoration: line-through;
+}
+
+.l5 {
     color: red;
 }
 
-.p6 {
+.alt5 {
+    color: red;
+    text-decoration: line-through;
+}
+
+.l6 {
     color: green;
 }
 
-.p7 {
+.alt6 {
+    color: green;
+    text-decoration: line-through;
+}
+
+.l7 {
     color: whitesmoke;
 }
 
-.p8 {
+.alt7 {
+    color: whitesmoke;
+    text-decoration: line-through;
+}
+
+.l8 {
     color: whitesmoke;
 }
 
-.p9 {
+.alt8 {
     color: whitesmoke;
+    text-decoration: line-through;
+}
+
+.l9 {
+    color: whitesmoke;
+}
+
+.alt9 {
+    color: whitesmoke;
+    text-decoration: line-through;
 }
